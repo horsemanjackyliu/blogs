@@ -58,6 +58,16 @@ _Little remind: please reach out to your BTP Customer Success Manager to get the
 These 2 solutions are based on CAP. If you are interested in CAP,I think you can start with the [Learning Sources](https://cap.cloud.sap/docs/get-started/learning-sources).
 
 
+The Side-By-Side extensibility method used in the missions can be applied to other LOBs like SAP ECC,SAP SuccessFactors HCM,etc.
+
+The ends!
+Thanks for your time!
+
+Best regards!
+
+Jacky Liu
+
+
 
 
 
