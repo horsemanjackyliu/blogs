@@ -46,8 +46,10 @@ The mission [Add Printing Label to Your User Experience for SAP S/4HANA Cloud](h
 
 
 
-To better help our customers to learn the solutions, we prepared the following webinars in December 2024. Welcome to register with the following linkages, we are happy to explain and answer queries and discuss. 
-Little remind: please reach out to your BTP Customer Success Manager to get the CRM ID for your organisation.
+To better help our customers to learn the solutions, we prepared the following webinars in December 2024. Welcome to register with the following linkages, we are happy to explain and answer queries and discuss.  
+- - - 
+_Little remind: please reach out to your BTP Customer Success Manager to get the CRM ID for your organisation._
+- - -
 
 - 4TH December 2024,  [Add Printing Labels to Your User Experience for SAP S/4HANA Cloud with CAP Node.js](https://events.sap.com/apj/adoption-webinar-sap-btp-add-printing-labels-capnodejs-dec-2024/en/home)
 - 11ST December 2024, [Add Printing Labels to Your User Experience for SAP S/4HANA Cloud with CAP Java](https://events.sap.com/apj/adoption-webinar-sap-btp-add-printing-labels-cap-dec-2024/en/home)
